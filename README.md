@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/xzMhehe"><img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
+<a href="https://github.com/xzMhehe"><img align='right' src="https://github-readme-stats.vercel.app/api?username=xzMhehe&show_icons=true"></a>
 
 ### Hi there I'm xzMhehe :snowflake:
 <!--
