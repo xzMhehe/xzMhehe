@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there👋 I'm xzMhehe :snowflake:
 
 [![Blog](http://image.codingce.com.cn/blog/20200819/102828838.svg)](https://i.codingce.com.cn/)
-[![i@winterchen.com](https://img.shields.io/badge/i%40winterchen.com-%20-orange?logo=gmail)](mailto:i@winterchen.com)
+[![i@codingce.com](https://img.shields.io/badge/i%40winterchen.com-%20-orange?logo=gmail)](mailto:2460798168@qq.com)
 [![Folio](https://img.shields.io/badge/Folio-%20-orange?logo=fandango)](https://folio.winterchen.com)
 <!--
 [![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
