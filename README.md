@@ -28,7 +28,10 @@ Here are some ideas to get you started:
  :earth_asia: I`m in Tianjin😄                                  
 
 
-<p align="right"> 
+<p>
+<p>
+<p>
+<p>
 <b>visitor count</b><br>
 <img src="https://cdn.jsdelivr.net/gh/xzMhehe/xzMhehe@master/count.svg" />
 </p>
