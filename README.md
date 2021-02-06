@@ -26,3 +26,9 @@ Here are some ideas to get you started:
   
  👨‍💻 23 Years old Java Developer  ✨                           
  :earth_asia: I`m in Tianjin😄                                  
+
+
+<p align="right"> 
+<b>visitor count</b><br>
+<img src="https://cdn.jsdelivr.net/gh/xzMhehe/xzMhehe@master/count.svg" />
+</p>
