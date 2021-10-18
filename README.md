@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
   
  👨‍💻 23 Years old Java Developer  ✨                           
- :earth_asia: I`m in Tianjin😄                                  
+ :earth_asia: I`m in Beijing😄                                  
 
