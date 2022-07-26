@@ -27,3 +27,6 @@ Here are some ideas to get you started:
  👨‍💻 23 Years old Java Developer  ✨                           
  :earth_asia: I`m in Beijing😄                                  
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzMhehe&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
