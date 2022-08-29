@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently working on [DartNative](https://github.com/dart-native)
 - 🌱 I’m currently learning iOS
-- 🎮 I'm currently playing * Tom Clancy's Rainbow Six Siege *
-- 📫 How to reach me: codingce#gmail.com (# replace @)                           
+- 🎮 I'm currently playing Tom Clancy's Rainbow Six Siege
+- 📫 How to reach me: codingce#gmail.com(#replace@)                           
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzMhehe&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
