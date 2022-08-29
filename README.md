@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 [![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
 -->
   
- 👨‍💻 23 Years old Java Developer  ✨                           
- :earth_asia: I`m in Beijing😄                                  
+- 🔭 I’m currently working on [DartNative](https://github.com/dart-native)
+- 🌱 I’m currently learning iOS
+- 🎮 I'm currently playing *Rainbow Six*
+- 📫 How to reach me: codingce#gmail.com (# replace @)                           
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzMhehe&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
