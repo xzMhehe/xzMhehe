@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently working on [DartNative](https://github.com/dart-native)
 - 🌱 I’m currently learning iOS
-- 🎮 I'm currently playing *Rainbow Six*
+- 🎮 I'm currently playing * Tom Clancy's Rainbow Six Siege *
 - 📫 How to reach me: codingce#gmail.com (# replace @)                           
 
 <!--
