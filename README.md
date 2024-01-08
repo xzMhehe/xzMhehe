@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 [![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
 -->
   
-- 🔭 I’m currently working on [DartNative](https://github.com/dart-native)
-- 🌱 I’m currently learning iOS
+- 🔭 I’m currently working on Spring Boot
+- 🌱 I’m currently learning LeetCode
 - 📫 How to reach me: 'echo "Y29kaW5nY2VAZ21haWwuY29tCg==" | base64 -d'                          
 
 <!--
