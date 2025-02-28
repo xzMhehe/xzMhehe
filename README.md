@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -->
   
 - 🔭 I’m currently working on Spring Boot
-- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: 'echo "Y29kaW5nY2VAZ21haWwuY29tCg==" | base64 -d'                          
 
 <!--
